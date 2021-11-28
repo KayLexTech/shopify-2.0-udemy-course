@@ -8,7 +8,7 @@
           "info": "Used as text color on solid buttons."
         },
         "colors_accent_1": {
-          "label": "Accent 1",
+          "label": "Button 1",
           "info": "Used for solid button background."
         },
         "gradient_accent_1": {
