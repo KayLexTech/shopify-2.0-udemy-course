@@ -4,15 +4,16 @@
       "name": "Colors",
       "settings": {
         "colors_solid_button_labels": {
-          "label": "Solid button label",
+          "label": "Solid button Text",
           "info": "Used as text color on solid buttons."
         },
         "colors_accent_1": {
-          "label": "Button 1",
+          "label": "Solid Button Background",
           "info": "Used for solid button background."
         },
         "gradient_accent_1": {
-          "label": "Accent 1 gradient"
+          "label": "Gradient One",
+          "info": "A Gradient Background."
         },
         "colors_accent_2": {
           "label": "Accent 2"
