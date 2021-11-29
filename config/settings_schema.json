@@ -86,7 +86,7 @@
       },
       {
         "type": "header",
-        "content": "t:settings_schema.colors.settings.announcment_bar.content"
+        "content": "Hello Announcement Bar"
       }
     ]
   },
