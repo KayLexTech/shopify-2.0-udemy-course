@@ -46,6 +46,9 @@
         },
         "gradient_background_2": {
           "label": "Background 2 gradient"
+        },
+        "announcment_bar": {
+          "content": "Announcement Bar"
         }
       }
     },
