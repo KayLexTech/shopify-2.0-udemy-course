@@ -74,10 +74,6 @@
         "label": "t:settings_schema.colors.settings.gradient_background_1.label"
       },
       {
-        "type": "header",
-        "content": "t:settings_schema.colors.settings.ann_bar.content"
-      },
-      {
         "type": "color",
         "id": "colors_background_2",
         "default": "#F3F3F3",
@@ -87,6 +83,10 @@
         "id": "gradient_background_2",
         "type": "color_background",
         "label": "t:settings_schema.colors.settings.gradient_background_2.label"
+      },
+      {
+        "type": "header",
+        "content": "t:settings_schema.colors.settings.announcement_bar.content"
       }
     ]
   },
