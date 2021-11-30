@@ -49,6 +49,9 @@
         },
         "announcement_bar": {
           "content": "Announcement Bar"
+        },
+        "colors_announcement_text": {
+          "content": "Text"
         }
       }
     },
