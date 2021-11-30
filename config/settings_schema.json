@@ -59,6 +59,22 @@
         "id": "colors_announcement_text",
         "default": "#ffc116",
         "label": "t:settings_schema.colors.settings.announcement_text.label"
+      },
+      {
+        "type": "header",
+        "content": "t:settings_schema.colors.settings.header_title.content"
+      },
+      {
+        "type": "color",
+        "id": "colors_header_background",
+        "default": "#212121",
+        "label": "t:settings_schema.colors.settings.header_background.label"
+      },
+      {
+        "type": "color",
+        "id": "colors_header_text",
+        "default": "#ffc116",
+        "label": "t:settings_schema.colors.settings.header_text.label"
       }
     ]
   },
