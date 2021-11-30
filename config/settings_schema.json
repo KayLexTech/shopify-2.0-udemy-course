@@ -75,7 +75,7 @@
       },
       {
         "type": "header",
-        "content": "t:settings_schema.colors.announcment_bar.content"
+        "content": "t:settings_schema.colors.ann_bar.content"
       },
       {
         "type": "color",
