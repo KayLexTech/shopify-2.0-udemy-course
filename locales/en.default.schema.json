@@ -58,6 +58,18 @@
         },
         "announcement_gradient": {
           "label": "Gradient"
+        },
+        "header_title": {
+          "content": "Header"
+        },
+        "header_background": {
+          "label": "Background"
+        },
+        "header_text": {
+          "label": "Text"
+        },
+        "header_gradient": {
+          "label": "Gradient"
         }
       }
     },
