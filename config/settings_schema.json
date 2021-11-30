@@ -75,7 +75,7 @@
       },
       {
         "type": "header",
-        "content": "t:settings_schema.colors.ann_bar.content"
+        "content": "t:settings_schema.colors.settings.header__2.content"
       },
       {
         "type": "color",
@@ -87,10 +87,6 @@
         "id": "gradient_background_2",
         "type": "color_background",
         "label": "t:settings_schema.colors.settings.gradient_background_2.label"
-      },
-      {
-        "type": "header",
-        "content": "Hello Announcement Bar"
       }
     ]
   },
