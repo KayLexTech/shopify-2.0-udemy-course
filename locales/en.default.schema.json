@@ -51,7 +51,7 @@
           "content": "Announcement Bar"
         },
         "colors_announcement_text": {
-          "content": "Text"
+          "label": "Text"
         }
       }
     },
