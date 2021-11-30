@@ -50,8 +50,11 @@
         "announcement_bar": {
           "content": "Announcement Bar"
         },
-        "colors_announcement_text": {
-          "label": "Text"
+        "announcement_background": {
+          "label": "Background"
+        },
+        "announcement_gradient": {
+          "label": "Gradient"
         }
       }
     },
