@@ -87,6 +87,17 @@
       {
         "type": "header",
         "content": "t:settings_schema.colors.settings.announcement_bar.content"
+      },
+      {
+        "type": "color",
+        "id": "colors_announcement_background",
+        "default": "#F3F3F3",
+        "label": "t:settings_schema.colors.settings.colors_background_2.label"
+      },
+      {
+        "id": "gradient_background_3",
+        "type": "color_background",
+        "label": "t:settings_schema.colors.settings.gradient_background_2.label"
       }
     ]
   },
