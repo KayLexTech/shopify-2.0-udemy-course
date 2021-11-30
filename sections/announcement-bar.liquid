@@ -15,6 +15,7 @@ background-color: rbg(var(--color-announcement-text))
             <a href="{{ block.settings.link }}" class="announcement-bar__link link link--text focus-inset animate-arrow">
           {%- endif -%}
               <p class="announcement-bar__message">
+              <h1>Hello</h1>
                 {{ block.settings.text | escape }}
                 {%- if block.settings.link != blank -%}
                   {% render 'icon-arrow' %}
