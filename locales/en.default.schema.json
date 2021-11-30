@@ -53,6 +53,9 @@
         "announcement_background": {
           "label": "Background"
         },
+        "announcement_text": {
+          "label": "Text"
+        },
         "announcement_gradient": {
           "label": "Gradient"
         }
